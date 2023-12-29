@@ -1,0 +1,1970 @@
+Time:1
+Number of clients:1000
+Time:2
+Number of clients:1000
+Time:3
+Number of clients:1000
+Time:4
+Number of clients:1000
+Time:5
+Number of clients:1000
+Time:6
+Number of clients:1000
+Time:7
+Number of clients:1000
+Time:8
+Number of clients:1000
+Time:9
+Number of clients:1000
+Time:10
+Number of clients:1000
+Clientul (85,10,5)a intrat in coada a 1
+Clientul (143,10,3)a intrat in coada a 2
+Clientul (168,10,7)a intrat in coada a 3
+Clientul (200,10,5)a intrat in coada a 4
+Clientul (247,10,4)a intrat in coada a 5
+Clientul (266,10,7)a intrat in coada a 6
+Clientul (310,10,8)a intrat in coada a 7
+Clientul (436,10,3)a intrat in coada a 8
+Clientul (533,10,7)a intrat in coada a 9
+Clientul (613,10,8)a intrat in coada a 10
+Clientul (670,10,8)a intrat in coada a 11
+Clientul (882,10,4)a intrat in coada a 12
+Clientul (921,10,8)a intrat in coada a 13
+Clientul (982,10,3)a intrat in coada a 14
+Time:11
+Number of clients:986
+Clientul (107,11,4)a intrat in coada a 15
+Clientul (138,11,4)a intrat in coada a 16
+Clientul (286,11,3)a intrat in coada a 17
+Clientul (345,11,5)a intrat in coada a 18
+Clientul (380,11,6)a intrat in coada a 19
+Clientul (406,11,5)a intrat in coada a 20
+Clientul (665,11,8)a intrat in coada a 2
+Clientul (812,11,7)a intrat in coada a 8
+Time:12
+Number of clients:978
+Clientul (94,12,3)a intrat in coada a 14
+Clientul (174,12,5)a intrat in coada a 17
+Clientul (265,12,3)a intrat in coada a 5
+Clientul (570,12,3)a intrat in coada a 12
+Clientul (608,12,5)a intrat in coada a 15
+Clientul (681,12,5)a intrat in coada a 16
+Clientul (780,12,8)a intrat in coada a 1
+Clientul (782,12,7)a intrat in coada a 4
+Clientul (930,12,4)a intrat in coada a 18
+Clientul (1000,12,7)a intrat in coada a 20
+Time:13
+Number of clients:968
+Clientul (79,13,3)a intrat in coada a 14
+Clientul (108,13,8)a intrat in coada a 19
+Clientul (160,13,6)a intrat in coada a 3
+Clientul (198,13,3)a intrat in coada a 5
+Clientul (280,13,4)a intrat in coada a 6
+Clientul (597,13,4)a intrat in coada a 9
+Clientul (680,13,8)a intrat in coada a 12
+Clientul (760,13,4)a intrat in coada a 7
+Clientul (777,13,7)a intrat in coada a 10
+Clientul (815,13,7)a intrat in coada a 11
+Clientul (820,13,7)a intrat in coada a 13
+Clientul (859,13,4)a intrat in coada a 17
+Clientul 143 a iesit din coada a 2
+Clientul 436 a iesit din coada a 8
+Clientul 982 a iesit din coada a 14
+Time:14
+Number of clients:956
+Clientul (102,14,5)a intrat in coada a 14
+Clientul (236,14,7)a intrat in coada a 8
+Clientul (244,14,8)a intrat in coada a 2
+Clientul (309,14,7)a intrat in coada a 15
+Clientul (511,14,8)a intrat in coada a 16
+Clientul (534,14,8)a intrat in coada a 18
+Clientul (941,14,8)a intrat in coada a 5
+Clientul (959,14,5)a intrat in coada a 6
+Clientul 247 a iesit din coada a 5
+Clientul 882 a iesit din coada a 12
+Clientul 286 a iesit din coada a 17
+Time:15
+Number of clients:948
+Clientul (24,15,3)a intrat in coada a 17
+Clientul (249,15,6)a intrat in coada a 9
+Clientul (354,15,4)a intrat in coada a 12
+Clientul (595,15,7)a intrat in coada a 14
+Clientul (623,15,5)a intrat in coada a 4
+Clientul (629,15,6)a intrat in coada a 7
+Clientul (671,15,8)a intrat in coada a 17
+Clientul 85 a iesit din coada a 1
+Clientul 200 a iesit din coada a 4
+Clientul 138 a iesit din coada a 16
+Clientul 107 a iesit din coada a 15
+Time:16
+Number of clients:941
+Clientul (71,16,3)a intrat in coada a 1
+Clientul (235,16,6)a intrat in coada a 1
+Clientul (319,16,6)a intrat in coada a 4
+Clientul (431,16,7)a intrat in coada a 15
+Clientul (442,16,3)a intrat in coada a 20
+Clientul (548,16,6)a intrat in coada a 3
+Clientul (833,16,7)a intrat in coada a 16
+Clientul (834,16,8)a intrat in coada a 5
+Clientul 406 a iesit din coada a 20
+Clientul 345 a iesit din coada a 18
+Time:17
+Number of clients:933
+Clientul (40,17,7)a intrat in coada a 20
+Clientul (126,17,4)a intrat in coada a 18
+Clientul (153,17,8)a intrat in coada a 8
+Clientul (204,17,4)a intrat in coada a 19
+Clientul (220,17,8)a intrat in coada a 10
+Clientul (222,17,8)a intrat in coada a 11
+Clientul (312,17,3)a intrat in coada a 12
+Clientul (719,17,3)a intrat in coada a 13
+Clientul (912,17,5)a intrat in coada a 2
+Clientul (999,17,3)a intrat in coada a 6
+Clientul 266 a iesit din coada a 6
+Clientul 533 a iesit din coada a 9
+Clientul 168 a iesit din coada a 3
+Clientul 94 a iesit din coada a 14
+Clientul 380 a iesit din coada a 19
+Time:18
+Number of clients:923
+Clientul (104,18,6)a intrat in coada a 9
+Clientul (112,18,3)a intrat in coada a 3
+Clientul (191,18,4)a intrat in coada a 6
+Clientul (268,18,6)a intrat in coada a 19
+Clientul (290,18,8)a intrat in coada a 3
+Clientul (363,18,5)a intrat in coada a 14
+Clientul (383,18,6)a intrat in coada a 6
+Clientul (537,18,4)a intrat in coada a 9
+Clientul (720,18,4)a intrat in coada a 18
+Clientul (747,18,6)a intrat in coada a 1
+Clientul (756,18,3)a intrat in coada a 20
+Clientul (797,18,4)a intrat in coada a 4
+Clientul (801,18,3)a intrat in coada a 7
+Clientul (846,18,8)a intrat in coada a 12
+Clientul (922,18,4)a intrat in coada a 13
+Clientul (935,18,4)a intrat in coada a 19
+Clientul (996,18,8)a intrat in coada a 15
+Clientul 265 a iesit din coada a 5
+Clientul 310 a iesit din coada a 7
+Clientul 613 a iesit din coada a 10
+Clientul 570 a iesit din coada a 12
+Clientul 670 a iesit din coada a 11
+Clientul 921 a iesit din coada a 13
+Time:19
+Number of clients:906
+Clientul (327,19,8)a intrat in coada a 7
+Clientul (388,19,3)a intrat in coada a 13
+Clientul (389,19,6)a intrat in coada a 10
+Clientul (415,19,7)a intrat in coada a 11
+Clientul (443,19,8)a intrat in coada a 13
+Clientul (483,19,5)a intrat in coada a 5
+Clientul (828,19,3)a intrat in coada a 9
+Clientul (910,19,7)a intrat in coada a 14
+Clientul (949,19,4)a intrat in coada a 16
+Time:20
+Number of clients:897
+Clientul (28,20,7)a intrat in coada a 17
+Clientul (41,20,5)a intrat in coada a 18
+Clientul (145,20,7)a intrat in coada a 20
+Clientul (301,20,4)a intrat in coada a 2
+Clientul (315,20,6)a intrat in coada a 7
+Clientul (361,20,6)a intrat in coada a 10
+Clientul (387,20,6)a intrat in coada a 4
+Clientul (550,20,4)a intrat in coada a 6
+Clientul (575,20,4)a intrat in coada a 8
+Clientul (642,20,3)a intrat in coada a 11
+Clientul 174 a iesit din coada a 17
+Time:21
+Number of clients:887
+Clientul (259,21,4)a intrat in coada a 17
+Clientul (392,21,4)a intrat in coada a 19
+Clientul (645,21,7)a intrat in coada a 1
+Clientul 812 a iesit din coada a 8
+Clientul 930 a iesit din coada a 18
+Clientul 608 a iesit din coada a 15
+Clientul 681 a iesit din coada a 16
+Clientul 79 a iesit din coada a 14
+Time:22
+Number of clients:884
+Clientul (31,22,8)a intrat in coada a 8
+Clientul (176,22,5)a intrat in coada a 16
+Clientul (359,22,7)a intrat in coada a 18
+Clientul (369,22,8)a intrat in coada a 15
+Clientul (458,22,7)a intrat in coada a 3
+Clientul (552,22,8)a intrat in coada a 9
+Clientul (705,22,7)a intrat in coada a 12
+Clientul (718,22,4)a intrat in coada a 5
+Clientul (725,22,5)a intrat in coada a 14
+Clientul (779,22,6)a intrat in coada a 16
+Clientul (783,22,7)a intrat in coada a 2
+Clientul (802,22,5)a intrat in coada a 11
+Clientul (805,22,3)a intrat in coada a 13
+Clientul (891,22,4)a intrat in coada a 6
+Clientul (947,22,4)a intrat in coada a 17
+Clientul 665 a iesit din coada a 2
+Clientul 280 a iesit din coada a 6
+Clientul 198 a iesit din coada a 5
+Clientul 597 a iesit din coada a 9
+Time:23
+Number of clients:869
+Clientul (67,23,7)a intrat in coada a 2
+Clientul (177,23,6)a intrat in coada a 5
+Clientul (208,23,8)a intrat in coada a 6
+Clientul (215,23,3)a intrat in coada a 19
+Clientul (329,23,7)a intrat in coada a 7
+Clientul (353,23,6)a intrat in coada a 8
+Clientul (493,23,7)a intrat in coada a 9
+Clientul (500,23,6)a intrat in coada a 10
+Clientul (551,23,3)a intrat in coada a 20
+Clientul (596,23,5)a intrat in coada a 4
+Clientul (605,23,8)a intrat in coada a 13
+Clientul (619,23,7)a intrat in coada a 18
+Clientul (636,23,8)a intrat in coada a 14
+Clientul (647,23,4)a intrat in coada a 19
+Clientul (717,23,5)a intrat in coada a 1
+Clientul (734,23,5)a intrat in coada a 3
+Clientul (849,23,4)a intrat in coada a 11
+Clientul (881,23,3)a intrat in coada a 12
+Clientul (960,23,4)a intrat in coada a 15
+Clientul 782 a iesit din coada a 4
+Clientul 760 a iesit din coada a 7
+Time:24
+Number of clients:850
+Clientul (17,24,7)a intrat in coada a 4
+Clientul (61,24,4)a intrat in coada a 7
+Clientul (164,24,4)a intrat in coada a 16
+Clientul (509,24,5)a intrat in coada a 17
+Clientul (593,24,6)a intrat in coada a 20
+Clientul (784,24,5)a intrat in coada a 2
+Clientul (822,24,6)a intrat in coada a 5
+Clientul (884,24,7)a intrat in coada a 4
+Clientul (893,24,4)a intrat in coada a 8
+Clientul 780 a iesit din coada a 1
+Clientul 160 a iesit din coada a 3
+Clientul 1000 a iesit din coada a 20
+Time:25
+Number of clients:841
+Clientul (72,25,4)a intrat in coada a 1
+Clientul (96,25,4)a intrat in coada a 3
+Clientul (142,25,8)a intrat in coada a 20
+Clientul (169,25,3)a intrat in coada a 1
+Clientul (190,25,5)a intrat in coada a 3
+Clientul (482,25,7)a intrat in coada a 10
+Clientul (795,25,5)a intrat in coada a 12
+Clientul (844,25,5)a intrat in coada a 19
+Clientul (880,25,5)a intrat in coada a 1
+Clientul 859 a iesit din coada a 17
+Time:26
+Number of clients:832
+Clientul (70,26,7)a intrat in coada a 17
+Clientul (77,26,6)a intrat in coada a 6
+Clientul (100,26,6)a intrat in coada a 7
+Clientul (192,26,5)a intrat in coada a 9
+Clientul (228,26,5)a intrat in coada a 11
+Clientul (328,26,3)a intrat in coada a 15
+Clientul (510,26,7)a intrat in coada a 16
+Clientul (525,26,5)a intrat in coada a 18
+Clientul (617,26,3)a intrat in coada a 2
+Clientul (739,26,8)a intrat in coada a 13
+Clientul (798,26,8)a intrat in coada a 5
+Clientul (808,26,8)a intrat in coada a 8
+Clientul (864,26,3)a intrat in coada a 14
+Clientul (936,26,7)a intrat in coada a 15
+Clientul (993,26,6)a intrat in coada a 20
+Clientul 777 a iesit din coada a 10
+Clientul 815 a iesit din coada a 11
+Clientul 108 a iesit din coada a 19
+Clientul 820 a iesit din coada a 13
+Time:27
+Number of clients:817
+Clientul (83,27,4)a intrat in coada a 19
+Clientul (121,27,7)a intrat in coada a 11
+Clientul (279,27,3)a intrat in coada a 10
+Clientul (294,27,8)a intrat in coada a 19
+Clientul (306,27,7)a intrat in coada a 10
+Clientul (394,27,4)a intrat in coada a 13
+Clientul (582,27,3)a intrat in coada a 3
+Clientul (666,27,6)a intrat in coada a 12
+Clientul (758,27,6)a intrat in coada a 17
+Clientul (853,27,7)a intrat in coada a 1
+Clientul (886,27,4)a intrat in coada a 2
+Clientul (919,27,8)a intrat in coada a 9
+Clientul 680 a iesit din coada a 12
+Clientul 102 a iesit din coada a 14
+Time:28
+Number of clients:805
+Clientul (12,28,6)a intrat in coada a 14
+Clientul (132,28,7)a intrat in coada a 12
+Clientul (146,28,4)a intrat in coada a 11
+Clientul (314,28,6)a intrat in coada a 4
+Clientul (365,28,7)a intrat in coada a 6
+Clientul (405,28,6)a intrat in coada a 7
+Clientul (487,28,4)a intrat in coada a 18
+Clientul (489,28,6)a intrat in coada a 3
+Clientul (610,28,6)a intrat in coada a 13
+Clientul (655,28,8)a intrat in coada a 14
+Clientul (661,28,5)a intrat in coada a 16
+Clientul (759,28,7)a intrat in coada a 19
+Clientul (800,28,4)a intrat in coada a 2
+Clientul (931,28,5)a intrat in coada a 10
+Clientul 71 a iesit din coada a 1
+Clientul 959 a iesit din coada a 6
+Clientul 442 a iesit din coada a 20
+Time:29
+Number of clients:791
+Clientul (106,29,6)a intrat in coada a 20
+Clientul (267,29,8)a intrat in coada a 6
+Clientul (398,29,5)a intrat in coada a 1
+Clientul (627,29,5)a intrat in coada a 11
+Clientul (683,29,4)a intrat in coada a 12
+Clientul (862,29,6)a intrat in coada a 15
+Clientul (905,29,4)a intrat in coada a 17
+Clientul 623 a iesit din coada a 4
+Clientul 249 a iesit din coada a 9
+Clientul 309 a iesit din coada a 15
+Clientul 236 a iesit din coada a 8
+Clientul 24 a iesit din coada a 17
+Time:30
+Number of clients:784
+Clientul (114,30,5)a intrat in coada a 8
+Clientul (181,30,7)a intrat in coada a 4
+Clientul (273,30,5)a intrat in coada a 9
+Clientul (346,30,8)a intrat in coada a 8
+Clientul (371,30,7)a intrat in coada a 15
+Clientul (448,30,3)a intrat in coada a 18
+Clientul (471,30,3)a intrat in coada a 5
+Clientul (506,30,8)a intrat in coada a 17
+Clientul (765,30,6)a intrat in coada a 7
+Clientul (792,30,8)a intrat in coada a 9
+Clientul (868,30,5)a intrat in coada a 16
+Clientul 629 a iesit din coada a 7
+Clientul 511 a iesit din coada a 16
+Clientul 534 a iesit din coada a 18
+Clientul 719 a iesit din coada a 13
+Time:31
+Number of clients:773
+Clientul (15,31,4)a intrat in coada a 18
+Clientul (33,31,5)a intrat in coada a 16
+Clientul (141,31,8)a intrat in coada a 18
+Clientul (187,31,7)a intrat in coada a 13
+Clientul (211,31,4)a intrat in coada a 7
+Clientul (539,31,6)a intrat in coada a 20
+Clientul (793,31,8)a intrat in coada a 2
+Clientul (854,31,4)a intrat in coada a 3
+Clientul (934,31,5)a intrat in coada a 12
+Clientul (958,31,5)a intrat in coada a 1
+Clientul 244 a iesit din coada a 2
+Clientul 548 a iesit din coada a 3
+Clientul 941 a iesit din coada a 5
+Clientul 204 a iesit din coada a 19
+Time:32
+Number of clients:763
+Clientul (16,32,3)a intrat in coada a 5
+Clientul (38,32,5)a intrat in coada a 5
+Clientul (292,32,6)a intrat in coada a 3
+Clientul (305,32,4)a intrat in coada a 19
+Clientul (564,32,4)a intrat in coada a 2
+Clientul (638,32,3)a intrat in coada a 4
+Clientul (669,32,3)a intrat in coada a 5
+Clientul (791,32,8)a intrat in coada a 10
+Clientul (837,32,3)a intrat in coada a 11
+Clientul 354 a iesit din coada a 12
+Clientul 999 a iesit din coada a 6
+Time:33
+Number of clients:754
+Clientul (105,33,5)a intrat in coada a 6
+Clientul (129,33,7)a intrat in coada a 12
+Clientul (195,33,8)a intrat in coada a 16
+Clientul (269,33,6)a intrat in coada a 14
+Clientul (298,33,7)a intrat in coada a 19
+Clientul (402,33,6)a intrat in coada a 7
+Clientul (543,33,6)a intrat in coada a 15
+Clientul (547,33,7)a intrat in coada a 2
+Clientul (566,33,8)a intrat in coada a 3
+Clientul (587,33,8)a intrat in coada a 4
+Clientul (598,33,5)a intrat in coada a 5
+Clientul (621,33,3)a intrat in coada a 8
+Clientul (628,33,3)a intrat in coada a 11
+Clientul (688,33,3)a intrat in coada a 13
+Clientul (796,33,5)a intrat in coada a 18
+Clientul (857,33,8)a intrat in coada a 6
+Clientul (874,33,8)a intrat in coada a 20
+Time:34
+Number of clients:737
+Clientul (2,34,3)a intrat in coada a 1
+Clientul (213,34,4)a intrat in coada a 17
+Clientul (439,34,3)a intrat in coada a 8
+Clientul (589,34,3)a intrat in coada a 9
+Clientul (662,34,4)a intrat in coada a 11
+Clientul (770,34,7)a intrat in coada a 13
+Clientul (814,34,5)a intrat in coada a 12
+Clientul (818,34,8)a intrat in coada a 14
+Clientul (944,34,5)a intrat in coada a 1
+Clientul (945,34,6)a intrat in coada a 5
+Clientul 801 a iesit din coada a 7
+Time:35
+Number of clients:727
+Clientul (6,35,8)a intrat in coada a 7
+Clientul (46,35,7)a intrat in coada a 10
+Clientul (86,35,6)a intrat in coada a 15
+Clientul (110,35,6)a intrat in coada a 16
+Clientul (150,35,6)a intrat in coada a 18
+Clientul (203,35,6)a intrat in coada a 19
+Clientul (243,35,8)a intrat in coada a 8
+Clientul (441,35,7)a intrat in coada a 9
+Clientul (484,35,3)a intrat in coada a 17
+Clientul (499,35,6)a intrat in coada a 2
+Clientul (863,35,5)a intrat in coada a 11
+Clientul (950,35,5)a intrat in coada a 3
+Clientul 235 a iesit din coada a 1
+Clientul 220 a iesit din coada a 10
+Clientul 222 a iesit din coada a 11
+Clientul 126 a iesit din coada a 18
+Clientul 922 a iesit din coada a 13
+Clientul 112 a iesit din coada a 3
+Clientul 595 a iesit din coada a 14
+Time:36
+Number of clients:715
+Clientul (65,36,7)a intrat in coada a 1
+Clientul (212,36,3)a intrat in coada a 10
+Clientul (281,36,8)a intrat in coada a 11
+Clientul (438,36,8)a intrat in coada a 14
+Clientul (444,36,4)a intrat in coada a 13
+Clientul (607,36,3)a intrat in coada a 10
+Clientul (769,36,4)a intrat in coada a 18
+Clientul 104 a iesit din coada a 9
+Clientul 319 a iesit din coada a 4
+Clientul 40 a iesit din coada a 20
+Clientul 312 a iesit din coada a 12
+Time:37
+Number of clients:708
+Clientul (35,37,7)a intrat in coada a 4
+Clientul (390,37,7)a intrat in coada a 20
+Clientul (710,37,4)a intrat in coada a 12
+Clientul (711,37,7)a intrat in coada a 9
+Clientul (766,37,4)a intrat in coada a 4
+Clientul (965,37,7)a intrat in coada a 6
+Clientul 431 a iesit din coada a 15
+Clientul 912 a iesit din coada a 2
+Clientul 191 a iesit din coada a 6
+Time:38
+Number of clients:702
+Clientul (98,38,4)a intrat in coada a 15
+Clientul (167,38,6)a intrat in coada a 2
+Clientul (214,38,7)a intrat in coada a 15
+Clientul (283,38,8)a intrat in coada a 17
+Clientul (284,38,5)a intrat in coada a 20
+Clientul (385,38,5)a intrat in coada a 3
+Clientul (416,38,7)a intrat in coada a 7
+Clientul (424,38,4)a intrat in coada a 10
+Clientul (428,38,4)a intrat in coada a 12
+Clientul (630,38,7)a intrat in coada a 13
+Clientul (738,38,5)a intrat in coada a 1
+Clientul (851,38,3)a intrat in coada a 5
+Clientul (997,38,5)a intrat in coada a 16
+Clientul 833 a iesit din coada a 16
+Clientul 153 a iesit din coada a 8
+Clientul 671 a iesit din coada a 17
+Clientul 268 a iesit din coada a 19
+Time:39
+Number of clients:689
+Clientul (307,39,6)a intrat in coada a 19
+Clientul (376,39,6)a intrat in coada a 8
+Clientul (544,39,5)a intrat in coada a 16
+Clientul (558,39,7)a intrat in coada a 17
+Clientul (656,39,5)a intrat in coada a 18
+Clientul (660,39,4)a intrat in coada a 19
+Clientul (673,39,4)a intrat in coada a 6
+Clientul (703,39,6)a intrat in coada a 8
+Clientul (831,39,5)a intrat in coada a 11
+Clientul (869,39,7)a intrat in coada a 4
+Clientul (902,39,3)a intrat in coada a 14
+Clientul (937,39,4)a intrat in coada a 2
+Clientul (967,39,4)a intrat in coada a 5
+Clientul 388 a iesit din coada a 13
+Time:40
+Number of clients:676
+Clientul (147,40,5)a intrat in coada a 9
+Clientul (349,40,8)a intrat in coada a 10
+Clientul (412,40,8)a intrat in coada a 12
+Clientul (426,40,3)a intrat in coada a 13
+Clientul (456,40,5)a intrat in coada a 16
+Clientul (463,40,8)a intrat in coada a 20
+Clientul (737,40,6)a intrat in coada a 3
+Clientul (809,40,4)a intrat in coada a 15
+Clientul (978,40,7)a intrat in coada a 19
+Clientul 756 a iesit din coada a 20
+Clientul 720 a iesit din coada a 18
+Clientul 834 a iesit din coada a 5
+Time:41
+Number of clients:667
+Clientul (137,41,4)a intrat in coada a 5
+Clientul (277,41,6)a intrat in coada a 18
+Clientul (297,41,5)a intrat in coada a 5
+Clientul (302,41,8)a intrat in coada a 1
+Clientul (420,41,6)a intrat in coada a 6
+Clientul (887,41,3)a intrat in coada a 14
+Clientul 797 a iesit din coada a 4
+Clientul 537 a iesit din coada a 9
+Clientul 363 a iesit din coada a 14
+Time:42
+Number of clients:661
+Clientul (92,42,6)a intrat in coada a 14
+Clientul (238,42,3)a intrat in coada a 9
+Clientul (263,42,6)a intrat in coada a 4
+Clientul (272,42,5)a intrat in coada a 17
+Clientul (366,42,6)a intrat in coada a 7
+Clientul (413,42,7)a intrat in coada a 11
+Clientul (421,42,6)a intrat in coada a 13
+Clientul (480,42,8)a intrat in coada a 2
+Clientul (576,42,7)a intrat in coada a 8
+Clientul (581,42,4)a intrat in coada a 9
+Clientul (706,42,5)a intrat in coada a 18
+Clientul (736,42,4)a intrat in coada a 5
+Clientul (970,42,5)a intrat in coada a 15
+Clientul 747 a iesit din coada a 1
+Clientul 389 a iesit din coada a 10
+Clientul 301 a iesit din coada a 2
+Time:43
+Number of clients:648
+Clientul (99,43,6)a intrat in coada a 10
+Clientul (157,43,8)a intrat in coada a 1
+Clientul (205,43,8)a intrat in coada a 16
+Clientul (250,43,3)a intrat in coada a 20
+Clientul (323,43,4)a intrat in coada a 14
+Clientul (331,43,4)a intrat in coada a 3
+Clientul (342,43,5)a intrat in coada a 17
+Clientul (508,43,3)a intrat in coada a 2
+Clientul (523,43,6)a intrat in coada a 4
+Clientul (620,43,8)a intrat in coada a 6
+Clientul (764,43,3)a intrat in coada a 9
+Clientul 327 a iesit din coada a 7
+Clientul 415 a iesit din coada a 11
+Clientul 949 a iesit din coada a 16
+Clientul 575 a iesit din coada a 8
+Clientul 935 a iesit din coada a 19
+Time:44
+Number of clients:637
+Clientul (50,44,6)a intrat in coada a 7
+Clientul (53,44,3)a intrat in coada a 11
+Clientul (152,44,7)a intrat in coada a 19
+Clientul (179,44,4)a intrat in coada a 11
+Clientul (654,44,7)a intrat in coada a 7
+Clientul (707,44,8)a intrat in coada a 8
+Clientul (735,44,3)a intrat in coada a 10
+Clientul (785,44,5)a intrat in coada a 12
+Clientul (788,44,3)a intrat in coada a 20
+Clientul (817,44,3)a intrat in coada a 5
+Clientul (865,44,5)a intrat in coada a 13
+Clientul (878,44,5)a intrat in coada a 16
+Clientul (926,44,8)a intrat in coada a 18
+Clientul (955,44,7)a intrat in coada a 11
+Clientul 290 a iesit din coada a 3
+Clientul 383 a iesit din coada a 6
+Time:45
+Number of clients:623
+Clientul (49,45,3)a intrat in coada a 3
+Clientul (84,45,6)a intrat in coada a 3
+Clientul (120,45,6)a intrat in coada a 6
+Clientul (528,45,4)a intrat in coada a 14
+Clientul (546,45,5)a intrat in coada a 15
+Clientul (577,45,6)a intrat in coada a 2
+Clientul (615,45,7)a intrat in coada a 9
+Clientul (699,45,4)a intrat in coada a 10
+Clientul (894,45,4)a intrat in coada a 19
+Clientul (895,45,8)a intrat in coada a 20
+Clientul 828 a iesit din coada a 9
+Clientul 846 a iesit din coada a 12
+Time:46
+Number of clients:613
+Clientul (59,46,7)a intrat in coada a 12
+Clientul (80,46,5)a intrat in coada a 1
+Clientul (134,46,7)a intrat in coada a 3
+Clientul (135,46,7)a intrat in coada a 5
+Clientul (207,46,6)a intrat in coada a 12
+Clientul (254,46,8)a intrat in coada a 17
+Clientul (358,46,8)a intrat in coada a 4
+Clientul (659,46,3)a intrat in coada a 7
+Clientul (676,46,6)a intrat in coada a 13
+Clientul (715,46,4)a intrat in coada a 14
+Clientul (841,46,8)a intrat in coada a 16
+Clientul (942,46,3)a intrat in coada a 8
+Clientul 996 a iesit din coada a 15
+Clientul 41 a iesit din coada a 18
+Clientul 28 a iesit din coada a 17
+Clientul 483 a iesit din coada a 5
+Time:47
+Number of clients:601
+Clientul (418,47,5)a intrat in coada a 15
+Clientul (557,47,4)a intrat in coada a 15
+Clientul (571,47,4)a intrat in coada a 18
+Clientul (651,47,5)a intrat in coada a 17
+Clientul (748,47,6)a intrat in coada a 5
+Clientul (767,47,4)a intrat in coada a 9
+Clientul (794,47,8)a intrat in coada a 10
+Clientul (830,47,6)a intrat in coada a 19
+Clientul (832,47,8)a intrat in coada a 6
+Clientul (861,47,3)a intrat in coada a 15
+Clientul 642 a iesit din coada a 11
+Time:48
+Number of clients:591
+Clientul (58,48,7)a intrat in coada a 11
+Clientul (76,48,4)a intrat in coada a 18
+Clientul (253,48,7)a intrat in coada a 1
+Clientul (453,48,4)a intrat in coada a 2
+Clientul (643,48,3)a intrat in coada a 7
+Clientul (721,48,4)a intrat in coada a 8
+Clientul (953,48,8)a intrat in coada a 12
+Clientul 145 a iesit din coada a 20
+Clientul 387 a iesit din coada a 4
+Clientul 443 a iesit din coada a 13
+Clientul 392 a iesit din coada a 19
+Time:49
+Number of clients:584
+Clientul (159,49,8)a intrat in coada a 13
+Clientul (231,49,6)a intrat in coada a 20
+Clientul (374,49,6)a intrat in coada a 4
+Clientul (618,49,6)a intrat in coada a 19
+Clientul (892,49,3)a intrat in coada a 14
+Clientul (957,49,6)a intrat in coada a 17
+Clientul (977,49,3)a intrat in coada a 20
+Clientul 361 a iesit din coada a 10
+Clientul 176 a iesit din coada a 16
+Clientul 910 a iesit din coada a 14
+Clientul 550 a iesit din coada a 6
+Time:50
+Number of clients:577
+Clientul (44,50,8)a intrat in coada a 14
+Clientul (69,50,8)a intrat in coada a 10
+Clientul (166,50,3)a intrat in coada a 16
+Clientul (411,50,3)a intrat in coada a 3
+Clientul (429,50,4)a intrat in coada a 9
+Clientul (481,50,7)a intrat in coada a 15
+Clientul 645 a iesit din coada a 1
+Clientul 315 a iesit din coada a 7
+Clientul 783 a iesit din coada a 2
+Time:51
+Number of clients:571
+Clientul (178,51,4)a intrat in coada a 2
+Clientul (252,51,7)a intrat in coada a 7
+Clientul (473,51,4)a intrat in coada a 1
+Clientul (501,51,5)a intrat in coada a 2
+Clientul (567,51,8)a intrat in coada a 5
+Clientul (584,51,6)a intrat in coada a 6
+Clientul (611,51,7)a intrat in coada a 13
+Clientul (679,51,6)a intrat in coada a 16
+Clientul (729,51,8)a intrat in coada a 18
+Clientul (858,51,6)a intrat in coada a 1
+Clientul (883,51,7)a intrat in coada a 7
+Clientul (913,51,5)a intrat in coada a 11
+Clientul (991,51,3)a intrat in coada a 20
+Clientul 259 a iesit din coada a 17
+Clientul 718 a iesit din coada a 5
+Time:52
+Number of clients:558
+Clientul (8,52,5)a intrat in coada a 17
+Clientul (42,52,7)a intrat in coada a 3
+Clientul (124,52,4)a intrat in coada a 4
+Clientul (156,52,7)a intrat in coada a 8
+Clientul (351,52,8)a intrat in coada a 14
+Clientul (529,52,5)a intrat in coada a 2
+Clientul (751,52,7)a intrat in coada a 9
+Clientul (852,52,6)a intrat in coada a 19
+Clientul (914,52,3)a intrat in coada a 5
+Clientul (964,52,7)a intrat in coada a 20
+Clientul (971,52,4)a intrat in coada a 10
+Clientul 551 a iesit din coada a 20
+Clientul 31 a iesit din coada a 8
+Clientul 805 a iesit din coada a 13
+Clientul 458 a iesit din coada a 3
+Clientul 215 a iesit din coada a 19
+Time:53
+Number of clients:547
+Clientul (255,53,3)a intrat in coada a 8
+Clientul (325,53,4)a intrat in coada a 3
+Clientul (339,53,5)a intrat in coada a 8
+Clientul (375,53,5)a intrat in coada a 13
+Clientul (417,53,6)a intrat in coada a 17
+Clientul (468,53,7)a intrat in coada a 3
+Clientul (503,53,3)a intrat in coada a 4
+Clientul (590,53,3)a intrat in coada a 6
+Clientul (677,53,3)a intrat in coada a 11
+Clientul (752,53,5)a intrat in coada a 12
+Clientul (897,53,3)a intrat in coada a 15
+Clientul (985,53,7)a intrat in coada a 16
+Clientul 802 a iesit din coada a 11
+Clientul 705 a iesit din coada a 12
+Time:54
+Number of clients:535
+Clientul (18,54,5)a intrat in coada a 11
+Clientul (118,54,7)a intrat in coada a 12
+Clientul (223,54,5)a intrat in coada a 19
+Clientul (240,54,8)a intrat in coada a 1
+Clientul (282,54,6)a intrat in coada a 5
+Clientul (287,54,6)a intrat in coada a 2
+Clientul (288,54,6)a intrat in coada a 7
+Clientul (291,54,7)a intrat in coada a 18
+Clientul (459,54,5)a intrat in coada a 20
+Clientul (461,54,5)a intrat in coada a 4
+Clientul (497,54,7)a intrat in coada a 6
+Clientul (504,54,7)a intrat in coada a 8
+Clientul (521,54,8)a intrat in coada a 10
+Clientul (527,54,8)a intrat in coada a 11
+Clientul (685,54,5)a intrat in coada a 13
+Clientul (723,54,7)a intrat in coada a 15
+Clientul (810,54,3)a intrat in coada a 9
+Clientul (898,54,4)a intrat in coada a 14
+Clientul (975,54,6)a intrat in coada a 12
+Clientul (995,54,4)a intrat in coada a 17
+Clientul 359 a iesit din coada a 18
+Clientul 552 a iesit din coada a 9
+Clientul 596 a iesit din coada a 4
+Clientul 891 a iesit din coada a 6
+Time:55
+Number of clients:515
+Clientul (7,55,8)a intrat in coada a 9
+Clientul (27,55,4)a intrat in coada a 18
+Clientul (60,55,7)a intrat in coada a 4
+Clientul (347,55,6)a intrat in coada a 19
+Clientul (512,55,5)a intrat in coada a 6
+Clientul (556,55,3)a intrat in coada a 18
+Clientul (559,55,8)a intrat in coada a 3
+Clientul (622,55,7)a intrat in coada a 5
+Clientul (631,55,3)a intrat in coada a 9
+Clientul (730,55,5)a intrat in coada a 16
+Clientul (827,55,5)a intrat in coada a 20
+Clientul (847,55,4)a intrat in coada a 2
+Clientul 369 a iesit din coada a 15
+Clientul 725 a iesit din coada a 14
+Time:56
+Number of clients:503
+Clientul (32,56,5)a intrat in coada a 15
+Clientul (103,56,5)a intrat in coada a 14
+Clientul (117,56,7)a intrat in coada a 15
+Clientul (217,56,4)a intrat in coada a 7
+Clientul (440,56,6)a intrat in coada a 13
+Clientul (474,56,6)a intrat in coada a 14
+Clientul (601,56,7)a intrat in coada a 1
+Clientul (652,56,8)a intrat in coada a 17
+Clientul (691,56,5)a intrat in coada a 18
+Clientul (704,56,6)a intrat in coada a 4
+Clientul 717 a iesit din coada a 1
+Clientul 500 a iesit din coada a 10
+Clientul 779 a iesit din coada a 16
+Clientul 947 a iesit din coada a 17
+Time:57
+Number of clients:493
+Clientul (14,57,3)a intrat in coada a 10
+Clientul (25,57,4)a intrat in coada a 16
+Clientul (30,57,5)a intrat in coada a 10
+Clientul (97,57,7)a intrat in coada a 8
+Clientul (182,57,6)a intrat in coada a 9
+Clientul (194,57,5)a intrat in coada a 16
+Clientul (242,57,7)a intrat in coada a 1
+Clientul (300,57,3)a intrat in coada a 6
+Clientul (322,57,4)a intrat in coada a 11
+Clientul (324,57,6)a intrat in coada a 12
+Clientul (370,57,5)a intrat in coada a 19
+Clientul (457,57,6)a intrat in coada a 2
+Clientul (545,57,4)a intrat in coada a 7
+Clientul (579,57,8)a intrat in coada a 20
+Clientul (896,57,8)a intrat in coada a 10
+Clientul 881 a iesit din coada a 12
+Clientul 647 a iesit din coada a 19
+Time:58
+Number of clients:478
+Clientul (91,58,8)a intrat in coada a 19
+Clientul (377,58,4)a intrat in coada a 17
+Clientul (403,58,8)a intrat in coada a 5
+Clientul (519,58,6)a intrat in coada a 6
+Clientul (626,58,5)a intrat in coada a 12
+Clientul (823,58,4)a intrat in coada a 13
+Clientul 849 a iesit din coada a 11
+Clientul 329 a iesit din coada a 7
+Clientul 734 a iesit din coada a 3
+Clientul 67 a iesit din coada a 2
+Clientul 177 a iesit din coada a 5
+Time:59
+Number of clients:472
+Clientul (101,59,8)a intrat in coada a 7
+Clientul (335,59,3)a intrat in coada a 3
+Clientul (379,59,6)a intrat in coada a 2
+Clientul (396,59,5)a intrat in coada a 11
+Clientul (400,59,6)a intrat in coada a 3
+Clientul (472,59,5)a intrat in coada a 14
+Clientul (478,59,4)a intrat in coada a 15
+Clientul (614,59,7)a intrat in coada a 18
+Clientul (632,59,6)a intrat in coada a 16
+Clientul (653,59,8)a intrat in coada a 4
+Clientul (698,59,5)a intrat in coada a 5
+Clientul (740,59,4)a intrat in coada a 9
+Clientul (742,59,5)a intrat in coada a 11
+Clientul 593 a iesit din coada a 20
+Clientul 353 a iesit din coada a 8
+Time:60
+Number of clients:459
+Clientul (19,60,3)a intrat in coada a 8
+Clientul (151,60,6)a intrat in coada a 8
+Clientul (165,60,8)a intrat in coada a 20
+Clientul (258,60,6)a intrat in coada a 2
+Clientul (452,60,8)a intrat in coada a 7
+Clientul (786,60,4)a intrat in coada a 17
+Clientul (787,60,5)a intrat in coada a 1
+Clientul (803,60,6)a intrat in coada a 13
+Clientul 960 a iesit din coada a 15
+Time:61
+Number of clients:451
+Clientul (1,61,5)a intrat in coada a 15
+Clientul (62,61,5)a intrat in coada a 3
+Clientul (216,61,3)a intrat in coada a 12
+Clientul (226,61,8)a intrat in coada a 14
+Clientul (229,61,3)a intrat in coada a 15
+Clientul (275,61,8)a intrat in coada a 6
+Clientul (357,61,8)a intrat in coada a 8
+Clientul (486,61,8)a intrat in coada a 9
+Clientul (675,61,6)a intrat in coada a 19
+Clientul (733,61,7)a intrat in coada a 5
+Clientul (743,61,7)a intrat in coada a 10
+Clientul (750,61,5)a intrat in coada a 11
+Clientul (781,61,3)a intrat in coada a 16
+Clientul (866,61,4)a intrat in coada a 17
+Clientul (974,61,8)a intrat in coada a 18
+Clientul 72 a iesit din coada a 1
+Clientul 164 a iesit din coada a 16
+Clientul 605 a iesit din coada a 13
+Time:62
+Number of clients:436
+Clientul (90,62,8)a intrat in coada a 13
+Clientul (149,62,3)a intrat in coada a 1
+Clientul (171,62,5)a intrat in coada a 16
+Clientul (261,62,4)a intrat in coada a 1
+Clientul (341,62,3)a intrat in coada a 12
+Clientul (414,62,5)a intrat in coada a 15
+Clientul (433,62,3)a intrat in coada a 20
+Clientul (515,62,7)a intrat in coada a 2
+Clientul (536,62,3)a intrat in coada a 3
+Clientul (702,62,8)a intrat in coada a 4
+Clientul (838,62,3)a intrat in coada a 13
+Clientul (899,62,3)a intrat in coada a 7
+Clientul (954,62,4)a intrat in coada a 12
+Clientul (966,62,3)a intrat in coada a 16
+Clientul 509 a iesit din coada a 17
+Clientul 619 a iesit din coada a 18
+Clientul 17 a iesit din coada a 4
+Clientul 493 a iesit din coada a 9
+Time:63
+Number of clients:422
+Clientul (162,63,4)a intrat in coada a 17
+Clientul (173,63,3)a intrat in coada a 9
+Clientul (197,63,3)a intrat in coada a 18
+Clientul (513,63,4)a intrat in coada a 9
+Clientul (948,63,5)a intrat in coada a 17
+Clientul (976,63,5)a intrat in coada a 4
+Clientul 61 a iesit din coada a 7
+Clientul 795 a iesit din coada a 12
+Clientul 96 a iesit din coada a 3
+Clientul 208 a iesit din coada a 6
+Clientul 844 a iesit din coada a 19
+Time:64
+Number of clients:416
+Clientul (63,64,7)a intrat in coada a 6
+Clientul (304,64,4)a intrat in coada a 19
+Clientul (321,64,7)a intrat in coada a 3
+Clientul (585,64,6)a intrat in coada a 7
+Clientul (606,64,7)a intrat in coada a 12
+Clientul (612,64,5)a intrat in coada a 18
+Clientul (634,64,6)a intrat in coada a 19
+Clientul (775,64,6)a intrat in coada a 20
+Clientul (909,64,6)a intrat in coada a 1
+Clientul 482 a iesit din coada a 10
+Clientul 228 a iesit din coada a 11
+Clientul 893 a iesit din coada a 8
+Clientul 328 a iesit din coada a 15
+Clientul 636 a iesit din coada a 14
+Clientul 784 a iesit din coada a 2
+Time:65
+Number of clients:407
+Clientul (57,65,5)a intrat in coada a 14
+Clientul (74,65,4)a intrat in coada a 10
+Clientul (136,65,4)a intrat in coada a 11
+Clientul (227,65,5)a intrat in coada a 8
+Clientul (289,65,6)a intrat in coada a 14
+Clientul (540,65,6)a intrat in coada a 15
+Clientul (646,65,3)a intrat in coada a 2
+Clientul 169 a iesit din coada a 1
+Clientul 822 a iesit din coada a 5
+Time:66
+Number of clients:400
+Clientul (384,66,8)a intrat in coada a 5
+Clientul (454,66,8)a intrat in coada a 10
+Clientul (531,66,4)a intrat in coada a 11
+Clientul (532,66,8)a intrat in coada a 6
+Clientul (563,66,4)a intrat in coada a 13
+Clientul (600,66,6)a intrat in coada a 2
+Clientul (664,66,7)a intrat in coada a 9
+Time:67
+Number of clients:393
+Clientul (201,67,6)a intrat in coada a 16
+Clientul (583,67,7)a intrat in coada a 1
+Clientul (668,67,3)a intrat in coada a 8
+Clientul (916,67,8)a intrat in coada a 11
+Time:68
+Number of clients:389
+Clientul (3,68,8)a intrat in coada a 17
+Clientul (55,68,5)a intrat in coada a 3
+Clientul (285,68,7)a intrat in coada a 4
+Clientul (332,68,5)a intrat in coada a 5
+Clientul (476,68,3)a intrat in coada a 7
+Clientul (722,68,8)a intrat in coada a 14
+Clientul (806,68,8)a intrat in coada a 15
+Clientul 279 a iesit din coada a 10
+Clientul 192 a iesit din coada a 9
+Clientul 525 a iesit din coada a 18
+Clientul 142 a iesit din coada a 20
+Clientul 864 a iesit din coada a 14
+Clientul 617 a iesit din coada a 2
+Clientul 83 a iesit din coada a 19
+Time:69
+Number of clients:382
+Clientul (48,69,4)a intrat in coada a 20
+Clientul (130,69,4)a intrat in coada a 18
+Clientul (170,69,3)a intrat in coada a 19
+Clientul (209,69,4)a intrat in coada a 20
+Clientul (234,69,5)a intrat in coada a 18
+Clientul (239,69,6)a intrat in coada a 9
+Clientul (372,69,5)a intrat in coada a 10
+Clientul (425,69,4)a intrat in coada a 19
+Clientul (475,69,7)a intrat in coada a 2
+Clientul (496,69,7)a intrat in coada a 12
+Clientul (530,69,5)a intrat in coada a 13
+Clientul (604,69,3)a intrat in coada a 20
+Clientul (694,69,6)a intrat in coada a 8
+Clientul (726,69,8)a intrat in coada a 7
+Clientul (842,69,3)a intrat in coada a 16
+Clientul (845,69,8)a intrat in coada a 18
+Clientul (911,69,7)a intrat in coada a 19
+Clientul 510 a iesit din coada a 16
+Clientul 190 a iesit din coada a 3
+Time:70
+Number of clients:365
+Clientul (23,70,4)a intrat in coada a 3
+Clientul (45,70,5)a intrat in coada a 16
+Clientul (206,70,8)a intrat in coada a 3
+Clientul (336,70,5)a intrat in coada a 20
+Clientul (435,70,6)a intrat in coada a 5
+Clientul (561,70,7)a intrat in coada a 6
+Clientul (682,70,7)a intrat in coada a 10
+Clientul (689,70,5)a intrat in coada a 14
+Clientul (761,70,8)a intrat in coada a 16
+Clientul (992,70,6)a intrat in coada a 1
+Clientul 100 a iesit din coada a 7
+Clientul 70 a iesit din coada a 17
+Clientul 884 a iesit din coada a 4
+Clientul 666 a iesit din coada a 12
+Clientul 739 a iesit din coada a 13
+Clientul 77 a iesit din coada a 6
+Time:71
+Number of clients:355
+Clientul (22,71,8)a intrat in coada a 13
+Clientul (184,71,5)a intrat in coada a 4
+Clientul (362,71,4)a intrat in coada a 17
+Clientul (451,71,6)a intrat in coada a 12
+Clientul (477,71,6)a intrat in coada a 17
+Clientul (624,71,4)a intrat in coada a 4
+Clientul (708,71,7)a intrat in coada a 7
+Clientul (745,71,3)a intrat in coada a 6
+Clientul (824,71,5)a intrat in coada a 9
+Clientul (840,71,6)a intrat in coada a 13
+Clientul (867,71,8)a intrat in coada a 11
+Clientul (904,71,8)a intrat in coada a 2
+Clientul (928,71,7)a intrat in coada a 8
+Clientul (956,71,4)a intrat in coada a 12
+Clientul 880 a iesit din coada a 1
+Time:72
+Number of clients:341
+Clientul (119,72,4)a intrat in coada a 1
+Clientul (180,72,7)a intrat in coada a 15
+Clientul (193,72,5)a intrat in coada a 4
+Clientul (199,72,4)a intrat in coada a 6
+Clientul (251,72,4)a intrat in coada a 20
+Clientul (264,72,8)a intrat in coada a 14
+Clientul (395,72,3)a intrat in coada a 17
+Clientul (517,72,3)a intrat in coada a 1
+Clientul (753,72,7)a intrat in coada a 5
+Clientul (771,72,5)a intrat in coada a 9
+Clientul (870,72,7)a intrat in coada a 19
+Clientul (987,72,3)a intrat in coada a 3
+Clientul 121 a iesit din coada a 11
+Clientul 936 a iesit din coada a 15
+Time:73
+Number of clients:329
+Clientul (113,73,6)a intrat in coada a 11
+Clientul (202,73,8)a intrat in coada a 15
+Clientul (218,73,6)a intrat in coada a 7
+Clientul (230,73,5)a intrat in coada a 10
+Clientul (338,73,4)a intrat in coada a 12
+Clientul (368,73,8)a intrat in coada a 13
+Clientul (633,73,6)a intrat in coada a 18
+Clientul (640,73,6)a intrat in coada a 6
+Clientul (811,73,4)a intrat in coada a 16
+Clientul (929,73,5)a intrat in coada a 17
+Clientul (986,73,3)a intrat in coada a 20
+Clientul 487 a iesit din coada a 18
+Clientul 808 a iesit din coada a 8
+Clientul 582 a iesit din coada a 3
+Clientul 886 a iesit din coada a 2
+Time:74
+Number of clients:318
+Clientul (225,74,4)a intrat in coada a 8
+Clientul (344,74,5)a intrat in coada a 8
+Clientul (348,74,8)a intrat in coada a 2
+Clientul (386,74,5)a intrat in coada a 3
+Clientul (592,74,5)a intrat in coada a 1
+Clientul (693,74,5)a intrat in coada a 4
+Clientul (927,74,7)a intrat in coada a 11
+Clientul 798 a iesit din coada a 5
+Time:75
+Number of clients:311
+Clientul (21,75,8)a intrat in coada a 5
+Clientul (128,75,8)a intrat in coada a 18
+Clientul (175,75,7)a intrat in coada a 8
+Clientul (183,75,7)a intrat in coada a 9
+Clientul (313,75,4)a intrat in coada a 12
+Clientul (401,75,8)a intrat in coada a 15
+Clientul (445,75,6)a intrat in coada a 20
+Clientul (479,75,3)a intrat in coada a 3
+Clientul (495,75,6)a intrat in coada a 10
+Clientul (565,75,3)a intrat in coada a 16
+Clientul (594,75,5)a intrat in coada a 5
+Clientul (644,75,3)a intrat in coada a 7
+Clientul (663,75,6)a intrat in coada a 14
+Clientul (684,75,6)a intrat in coada a 17
+Clientul (731,75,4)a intrat in coada a 19
+Clientul (776,75,7)a intrat in coada a 1
+Clientul (778,75,5)a intrat in coada a 4
+Clientul (856,75,3)a intrat in coada a 6
+Clientul (924,75,7)a intrat in coada a 2
+Clientul (925,75,5)a intrat in coada a 3
+Clientul (961,75,6)a intrat in coada a 12
+Clientul 394 a iesit din coada a 13
+Clientul 661 a iesit din coada a 16
+Clientul 993 a iesit din coada a 20
+Clientul 12 a iesit din coada a 14
+Time:76
+Number of clients:290
+Clientul (68,76,8)a intrat in coada a 16
+Clientul (296,76,7)a intrat in coada a 13
+Clientul (334,76,5)a intrat in coada a 20
+Clientul (514,76,8)a intrat in coada a 14
+Clientul (599,76,8)a intrat in coada a 7
+Clientul (641,76,3)a intrat in coada a 11
+Clientul (648,76,8)a intrat in coada a 20
+Clientul (754,76,7)a intrat in coada a 6
+Clientul (804,76,3)a intrat in coada a 18
+Clientul (855,76,3)a intrat in coada a 19
+Clientul (963,76,8)a intrat in coada a 5
+Clientul 306 a iesit din coada a 10
+Time:77
+Number of clients:279
+Clientul (262,77,4)a intrat in coada a 10
+Clientul (399,77,8)a intrat in coada a 10
+Clientul (520,77,3)a intrat in coada a 8
+Clientul (667,77,6)a intrat in coada a 9
+Clientul (768,77,5)a intrat in coada a 13
+Clientul (799,77,6)a intrat in coada a 16
+Clientul (807,77,6)a intrat in coada a 4
+Clientul (871,77,3)a intrat in coada a 11
+Clientul (968,77,6)a intrat in coada a 15
+Clientul 405 a iesit din coada a 7
+Clientul 146 a iesit din coada a 11
+Clientul 758 a iesit din coada a 17
+Clientul 314 a iesit din coada a 4
+Clientul 448 a iesit din coada a 18
+Clientul 919 a iesit din coada a 9
+Clientul 294 a iesit din coada a 19
+Time:78
+Number of clients:270
+Clientul (56,78,3)a intrat in coada a 19
+Clientul (122,78,8)a intrat in coada a 17
+Clientul (224,78,3)a intrat in coada a 19
+Clientul (467,78,7)a intrat in coada a 9
+Clientul (485,78,6)a intrat in coada a 18
+Clientul (524,78,3)a intrat in coada a 7
+Clientul (588,78,4)a intrat in coada a 11
+Clientul (635,78,3)a intrat in coada a 19
+Clientul (672,78,6)a intrat in coada a 4
+Clientul (674,78,8)a intrat in coada a 3
+Clientul (696,78,3)a intrat in coada a 1
+Clientul (724,78,5)a intrat in coada a 7
+Clientul (946,78,5)a intrat in coada a 8
+Clientul (988,78,7)a intrat in coada a 12
+Clientul (990,78,6)a intrat in coada a 14
+Clientul 132 a iesit din coada a 12
+Clientul 800 a iesit din coada a 2
+Clientul 471 a iesit din coada a 5
+Clientul 365 a iesit din coada a 6
+Time:79
+Number of clients:255
+Clientul (123,79,7)a intrat in coada a 6
+Clientul (196,79,8)a intrat in coada a 2
+Clientul (237,79,5)a intrat in coada a 12
+Clientul (274,79,4)a intrat in coada a 17
+Clientul (367,79,5)a intrat in coada a 19
+Clientul (397,79,7)a intrat in coada a 11
+Clientul (562,79,5)a intrat in coada a 5
+Clientul (877,79,4)a intrat in coada a 9
+Clientul 853 a iesit din coada a 1
+Clientul 862 a iesit din coada a 15
+Clientul 114 a iesit din coada a 8
+Time:80
+Number of clients:247
+Clientul (66,80,3)a intrat in coada a 1
+Clientul (87,80,8)a intrat in coada a 15
+Clientul (127,80,5)a intrat in coada a 1
+Clientul (185,80,8)a intrat in coada a 8
+Clientul (337,80,8)a intrat in coada a 10
+Clientul (464,80,5)a intrat in coada a 13
+Clientul (553,80,8)a intrat in coada a 18
+Clientul (555,80,3)a intrat in coada a 6
+Clientul (574,80,6)a intrat in coada a 16
+Clientul (744,80,3)a intrat in coada a 20
+Clientul (813,80,8)a intrat in coada a 1
+Clientul (981,80,6)a intrat in coada a 4
+Clientul 489 a iesit din coada a 3
+Time:81
+Number of clients:235
+Clientul (75,81,6)a intrat in coada a 3
+Clientul (154,81,8)a intrat in coada a 17
+Clientul (276,81,7)a intrat in coada a 2
+Clientul (350,81,4)a intrat in coada a 7
+Clientul (432,81,3)a intrat in coada a 12
+Clientul (516,81,7)a intrat in coada a 19
+Clientul (591,81,5)a intrat in coada a 6
+Clientul (763,81,3)a intrat in coada a 9
+Clientul (879,81,8)a intrat in coada a 14
+Clientul (890,81,4)a intrat in coada a 15
+Clientul 868 a iesit din coada a 16
+Time:82
+Number of clients:225
+Clientul (29,82,5)a intrat in coada a 16
+Clientul (51,82,7)a intrat in coada a 20
+Clientul (64,82,6)a intrat in coada a 3
+Clientul (82,82,7)a intrat in coada a 5
+Clientul (158,82,5)a intrat in coada a 13
+Clientul (163,82,6)a intrat in coada a 8
+Clientul (295,82,8)a intrat in coada a 11
+Clientul (404,82,6)a intrat in coada a 12
+Clientul (407,82,5)a intrat in coada a 7
+Clientul (419,82,6)a intrat in coada a 9
+Clientul (427,82,7)a intrat in coada a 16
+Clientul (535,82,5)a intrat in coada a 4
+Clientul (843,82,6)a intrat in coada a 10
+Clientul (875,82,4)a intrat in coada a 15
+Clientul (901,82,7)a intrat in coada a 18
+Clientul (940,82,3)a intrat in coada a 6
+Clientul (943,82,3)a intrat in coada a 1
+Clientul 931 a iesit din coada a 10
+Clientul 610 a iesit din coada a 13
+Clientul 106 a iesit din coada a 20
+Clientul 905 a iesit din coada a 17
+Clientul 15 a iesit din coada a 18
+Clientul 16 a iesit din coada a 5
+Time:83
+Number of clients:208
+Clientul (73,83,8)a intrat in coada a 13
+Clientul (125,83,8)a intrat in coada a 20
+Clientul (144,83,8)a intrat in coada a 17
+Clientul (189,83,6)a intrat in coada a 5
+Clientul (320,83,6)a intrat in coada a 10
+Clientul (490,83,4)a intrat in coada a 2
+Clientul (505,83,4)a intrat in coada a 19
+Clientul (522,83,4)a intrat in coada a 3
+Clientul (572,83,3)a intrat in coada a 18
+Clientul (741,83,3)a intrat in coada a 6
+Clientul (749,83,5)a intrat in coada a 7
+Clientul (773,83,7)a intrat in coada a 8
+Clientul (819,83,3)a intrat in coada a 12
+Clientul (876,83,8)a intrat in coada a 13
+Clientul (972,83,8)a intrat in coada a 14
+Clientul 627 a iesit din coada a 11
+Clientul 683 a iesit din coada a 12
+Clientul 273 a iesit din coada a 9
+Time:84
+Number of clients:193
+Clientul (270,84,8)a intrat in coada a 9
+Clientul (308,84,3)a intrat in coada a 11
+Clientul (318,84,3)a intrat in coada a 12
+Clientul (360,84,8)a intrat in coada a 11
+Clientul (378,84,8)a intrat in coada a 15
+Clientul (462,84,4)a intrat in coada a 1
+Clientul (491,84,7)a intrat in coada a 4
+Clientul (580,84,6)a intrat in coada a 20
+Clientul (839,84,3)a intrat in coada a 2
+Clientul (850,84,3)a intrat in coada a 12
+Clientul (889,84,4)a intrat in coada a 16
+Clientul (962,84,6)a intrat in coada a 17
+Clientul (984,84,6)a intrat in coada a 18
+Clientul (989,84,7)a intrat in coada a 19
+Clientul 765 a iesit din coada a 7
+Clientul 655 a iesit din coada a 14
+Time:85
+Number of clients:179
+Clientul (115,85,6)a intrat in coada a 7
+Clientul (299,85,6)a intrat in coada a 14
+Clientul (311,85,8)a intrat in coada a 3
+Clientul (460,85,5)a intrat in coada a 5
+Clientul (542,85,4)a intrat in coada a 6
+Clientul (560,85,3)a intrat in coada a 10
+Clientul (952,85,3)a intrat in coada a 9
+Clientul (980,85,4)a intrat in coada a 1
+Clientul 398 a iesit din coada a 1
+Clientul 181 a iesit din coada a 4
+Clientul 854 a iesit din coada a 3
+Clientul 759 a iesit din coada a 19
+Time:86
+Number of clients:171
+Clientul (26,86,3)a intrat in coada a 4
+Clientul (43,86,6)a intrat in coada a 19
+Clientul (109,86,8)a intrat in coada a 1
+Clientul (131,86,7)a intrat in coada a 4
+Clientul (172,86,4)a intrat in coada a 2
+Clientul (343,86,8)a intrat in coada a 7
+Clientul (364,86,6)a intrat in coada a 12
+Clientul (409,86,5)a intrat in coada a 10
+Clientul (455,86,6)a intrat in coada a 14
+Clientul (466,86,8)a intrat in coada a 16
+Clientul (625,86,8)a intrat in coada a 3
+Clientul (658,86,7)a intrat in coada a 6
+Clientul (700,86,7)a intrat in coada a 8
+Clientul (923,86,5)a intrat in coada a 9
+Time:87
+Number of clients:157
+Clientul (5,87,3)a intrat in coada a 20
+Clientul (10,87,3)a intrat in coada a 5
+Clientul (20,87,6)a intrat in coada a 11
+Clientul (36,87,4)a intrat in coada a 13
+Clientul (39,87,7)a intrat in coada a 15
+Clientul (93,87,6)a intrat in coada a 17
+Clientul (326,87,8)a intrat in coada a 18
+Clientul (355,87,4)a intrat in coada a 19
+Clientul (391,87,8)a intrat in coada a 2
+Clientul (423,87,6)a intrat in coada a 20
+Clientul (554,87,7)a intrat in coada a 4
+Clientul (603,87,3)a intrat in coada a 5
+Clientul (637,87,4)a intrat in coada a 10
+Clientul (713,87,4)a intrat in coada a 12
+Clientul (746,87,8)a intrat in coada a 1
+Clientul (835,87,6)a intrat in coada a 9
+Clientul (836,87,8)a intrat in coada a 13
+Clientul (900,87,3)a intrat in coada a 14
+Clientul (908,87,6)a intrat in coada a 19
+Clientul (932,87,7)a intrat in coada a 7
+Clientul (983,87,5)a intrat in coada a 5
+Clientul 837 a iesit din coada a 11
+Clientul 371 a iesit din coada a 15
+Clientul 33 a iesit din coada a 16
+Clientul 793 a iesit din coada a 2
+Clientul 267 a iesit din coada a 6
+Time:88
+Number of clients:136
+Clientul (188,88,8)a intrat in coada a 6
+Clientul (210,88,5)a intrat in coada a 15
+Clientul (762,88,4)a intrat in coada a 2
+Clientul (774,88,4)a intrat in coada a 16
+Clientul 346 a iesit din coada a 8
+Clientul 38 a iesit din coada a 5
+Time:89
+Number of clients:132
+Clientul (4,89,4)a intrat in coada a 8
+Clientul (54,89,6)a intrat in coada a 8
+Clientul (248,89,7)a intrat in coada a 11
+Clientul (381,89,4)a intrat in coada a 2
+Clientul (465,89,4)a intrat in coada a 15
+Clientul (541,89,8)a intrat in coada a 16
+Clientul (602,89,3)a intrat in coada a 5
+Clientul (609,89,6)a intrat in coada a 6
+Clientul (790,89,8)a intrat in coada a 17
+Clientul (829,89,6)a intrat in coada a 3
+Clientul (872,89,5)a intrat in coada a 10
+Clientul 211 a iesit din coada a 7
+Clientul 539 a iesit din coada a 20
+Clientul 934 a iesit din coada a 12
+Clientul 638 a iesit din coada a 4
+Time:90
+Number of clients:121
+Clientul (13,90,5)a intrat in coada a 12
+Clientul (186,90,7)a intrat in coada a 20
+Clientul (278,90,8)a intrat in coada a 4
+Clientul (293,90,8)a intrat in coada a 12
+Clientul (434,90,6)a intrat in coada a 14
+Clientul (709,90,4)a intrat in coada a 7
+Clientul 187 a iesit din coada a 13
+Clientul 305 a iesit din coada a 19
+Time:91
+Number of clients:115
+Clientul (148,91,7)a intrat in coada a 13
+Clientul (271,91,4)a intrat in coada a 19
+Clientul (393,91,7)a intrat in coada a 8
+Clientul (470,91,4)a intrat in coada a 18
+Clientul (494,91,8)a intrat in coada a 2
+Clientul (526,91,8)a intrat in coada a 5
+Clientul (538,91,7)a intrat in coada a 15
+Clientul (687,91,6)a intrat in coada a 20
+Clientul (690,91,3)a intrat in coada a 9
+Clientul (728,91,5)a intrat in coada a 11
+Clientul (732,91,3)a intrat in coada a 19
+Clientul (888,91,7)a intrat in coada a 1
+Clientul 958 a iesit din coada a 1
+Clientul 791 a iesit din coada a 10
+Clientul 628 a iesit din coada a 11
+Clientul 506 a iesit din coada a 17
+Clientul 141 a iesit din coada a 18
+Clientul 269 a iesit din coada a 14
+Time:92
+Number of clients:103
+Clientul (11,92,5)a intrat in coada a 10
+Clientul (95,92,5)a intrat in coada a 18
+Clientul (139,92,8)a intrat in coada a 17
+Clientul (219,92,3)a intrat in coada a 14
+Clientul (221,92,8)a intrat in coada a 10
+Clientul (233,92,8)a intrat in coada a 18
+Clientul (356,92,5)a intrat in coada a 14
+Clientul (410,92,8)a intrat in coada a 6
+Clientul (447,92,7)a intrat in coada a 7
+Clientul (573,92,3)a intrat in coada a 11
+Clientul (639,92,7)a intrat in coada a 13
+Clientul (716,92,5)a intrat in coada a 3
+Clientul (915,92,6)a intrat in coada a 9
+Clientul 621 a iesit din coada a 8
+Clientul 792 a iesit din coada a 9
+Clientul 292 a iesit din coada a 3
+Clientul 564 a iesit din coada a 2
+Clientul 669 a iesit din coada a 5
+Time:93
+Number of clients:90
+Clientul (89,93,5)a intrat in coada a 9
+Clientul (155,93,3)a intrat in coada a 3
+Clientul (246,93,3)a intrat in coada a 8
+Clientul (446,93,3)a intrat in coada a 2
+Clientul (755,93,5)a intrat in coada a 16
+Clientul (848,93,3)a intrat in coada a 19
+Clientul (918,93,5)a intrat in coada a 1
+Clientul 105 a iesit din coada a 6
+Time:94
+Number of clients:83
+Clientul (88,94,4)a intrat in coada a 5
+Clientul (241,94,8)a intrat in coada a 17
+Clientul (245,94,8)a intrat in coada a 3
+Clientul (256,94,6)a intrat in coada a 4
+Clientul (333,94,5)a intrat in coada a 6
+Clientul (352,94,8)a intrat in coada a 8
+Clientul (430,94,7)a intrat in coada a 11
+Clientul (578,94,6)a intrat in coada a 12
+Clientul (616,94,3)a intrat in coada a 14
+Clientul (649,94,6)a intrat in coada a 20
+Clientul (697,94,6)a intrat in coada a 2
+Clientul (757,94,5)a intrat in coada a 9
+Clientul (772,94,6)a intrat in coada a 15
+Clientul (789,94,4)a intrat in coada a 19
+Clientul (906,94,5)a intrat in coada a 10
+Clientul (933,94,6)a intrat in coada a 18
+Clientul (979,94,8)a intrat in coada a 5
+Clientul 543 a iesit din coada a 15
+Clientul 688 a iesit din coada a 13
+Time:95
+Number of clients:66
+Clientul (34,95,7)a intrat in coada a 13
+Clientul (37,95,8)a intrat in coada a 15
+Clientul (111,95,6)a intrat in coada a 14
+Clientul (232,95,6)a intrat in coada a 16
+Clientul (316,95,6)a intrat in coada a 1
+Clientul (330,95,5)a intrat in coada a 7
+Clientul (373,95,8)a intrat in coada a 6
+Clientul (422,95,7)a intrat in coada a 19
+Clientul (469,95,6)a intrat in coada a 4
+Clientul (488,95,8)a intrat in coada a 9
+Clientul (701,95,3)a intrat in coada a 12
+Clientul (821,95,3)a intrat in coada a 20
+Clientul (825,95,5)a intrat in coada a 2
+Clientul (885,95,3)a intrat in coada a 10
+Clientul (920,95,3)a intrat in coada a 11
+Clientul (994,95,5)a intrat in coada a 17
+Clientul 2 a iesit din coada a 1
+Time:96
+Number of clients:50
+Clientul (161,96,6)a intrat in coada a 1
+Clientul (257,96,5)a intrat in coada a 3
+Clientul (317,96,7)a intrat in coada a 8
+Clientul (449,96,6)a intrat in coada a 13
+Clientul (502,96,7)a intrat in coada a 18
+Clientul (568,96,6)a intrat in coada a 7
+Clientul (586,96,5)a intrat in coada a 12
+Clientul (678,96,6)a intrat in coada a 14
+Clientul (860,96,6)a intrat in coada a 15
+Clientul (907,96,3)a intrat in coada a 16
+Clientul (917,96,6)a intrat in coada a 20
+Clientul (973,96,6)a intrat in coada a 10
+Clientul (998,96,3)a intrat in coada a 11
+Clientul 402 a iesit din coada a 7
+Clientul 662 a iesit din coada a 11
+Clientul 213 a iesit din coada a 17
+Clientul 195 a iesit din coada a 16
+Clientul 439 a iesit din coada a 8
+Clientul 589 a iesit din coada a 9
+Time:97
+Number of clients:37
+Clientul (52,97,3)a intrat in coada a 16
+Clientul (303,97,7)a intrat in coada a 16
+Clientul (437,97,4)a intrat in coada a 17
+Clientul (492,97,8)a intrat in coada a 7
+Clientul (695,97,5)a intrat in coada a 11
+Clientul (816,97,7)a intrat in coada a 5
+Clientul (873,97,4)a intrat in coada a 9
+Clientul (903,97,3)a intrat in coada a 2
+Clientul (939,97,3)a intrat in coada a 4
+Clientul 129 a iesit din coada a 12
+Clientul 796 a iesit din coada a 18
+Time:98
+Number of clients:28
+Clientul (116,98,4)a intrat in coada a 12
+Clientul (382,98,4)a intrat in coada a 18
+Clientul (408,98,8)a intrat in coada a 12
+Clientul (450,98,7)a intrat in coada a 8
+Clientul (498,98,6)a intrat in coada a 17
+Clientul (507,98,3)a intrat in coada a 19
+Clientul (569,98,7)a intrat in coada a 1
+Clientul (650,98,4)a intrat in coada a 3
+Clientul (657,98,5)a intrat in coada a 6
+Clientul (712,98,5)a intrat in coada a 11
+Clientul (714,98,3)a intrat in coada a 13
+Clientul (938,98,4)a intrat in coada a 16
+Clientul (969,98,3)a intrat in coada a 18
+Clientul 874 a iesit din coada a 20
+Clientul 587 a iesit din coada a 4
+Clientul 298 a iesit din coada a 19
+Clientul 598 a iesit din coada a 5
+Time:99
+Number of clients:15
+Clientul (9,99,8)a intrat in coada a 4
+Clientul (47,99,4)a intrat in coada a 20
+Clientul (78,99,3)a intrat in coada a 19
+Clientul (81,99,5)a intrat in coada a 19
+Clientul (133,99,3)a intrat in coada a 20
+Clientul (140,99,3)a intrat in coada a 5
+Clientul (260,99,7)a intrat in coada a 20
+Clientul (340,99,6)a intrat in coada a 2
+Clientul (518,99,8)a intrat in coada a 4
+Clientul (549,99,3)a intrat in coada a 9
+Clientul (686,99,7)a intrat in coada a 14
+Clientul (692,99,3)a intrat in coada a 15
+Clientul (727,99,4)a intrat in coada a 5
+Clientul (826,99,6)a intrat in coada a 10
+Clientul (951,99,6)a intrat in coada a 19
+Clientul 46 a iesit din coada a 10
+Time:100
+Number of clients:0
+Clientul 484 a iesit din coada a 17
+Clientul 818 a iesit din coada a 14
+Clientul 547 a iesit din coada a 2
+Time:101
+Number of clients:0
+Clientul 944 a iesit din coada a 1
+Clientul 86 a iesit din coada a 15
+Clientul 566 a iesit din coada a 3
+Time:102
+Number of clients:0
+Clientul 863 a iesit din coada a 11
+Clientul 770 a iesit din coada a 13
+Clientul 857 a iesit din coada a 6
+Time:103
+Number of clients:0
+Clientul 212 a iesit din coada a 10
+Clientul 814 a iesit din coada a 12
+Clientul 110 a iesit din coada a 16
+Time:104
+Number of clients:0
+Clientul 150 a iesit din coada a 18
+Clientul 441 a iesit din coada a 9
+Time:105
+Number of clients:0
+Clientul 6 a iesit din coada a 7
+Clientul 243 a iesit din coada a 8
+Clientul 203 a iesit din coada a 19
+Clientul 945 a iesit din coada a 5
+Time:106
+Number of clients:0
+Clientul 390 a iesit din coada a 20
+Clientul 35 a iesit din coada a 4
+Clientul 98 a iesit din coada a 15
+Time:107
+Number of clients:0
+Clientul 607 a iesit din coada a 10
+Clientul 444 a iesit din coada a 13
+Clientul 950 a iesit din coada a 3
+Clientul 499 a iesit din coada a 2
+Time:108
+Number of clients:0
+Clientul 710 a iesit din coada a 12
+Time:109
+Number of clients:0
+Clientul 65 a iesit din coada a 1
+Clientul 283 a iesit din coada a 17
+Clientul 769 a iesit din coada a 18
+Clientul 997 a iesit din coada a 16
+Clientul 438 a iesit din coada a 14
+Clientul 851 a iesit din coada a 5
+Time:110
+Number of clients:0
+Clientul 965 a iesit din coada a 6
+Time:111
+Number of clients:0
+Clientul 281 a iesit din coada a 11
+Clientul 766 a iesit din coada a 4
+Time:112
+Number of clients:0
+Clientul 284 a iesit din coada a 20
+Clientul 424 a iesit din coada a 10
+Clientul 307 a iesit din coada a 19
+Clientul 376 a iesit din coada a 8
+Clientul 711 a iesit din coada a 9
+Time:113
+Number of clients:0
+Clientul 416 a iesit din coada a 7
+Clientul 428 a iesit din coada a 12
+Clientul 902 a iesit din coada a 14
+Clientul 385 a iesit din coada a 3
+Time:114
+Number of clients:0
+Clientul 214 a iesit din coada a 15
+Clientul 167 a iesit din coada a 2
+Clientul 967 a iesit din coada a 5
+Time:115
+Number of clients:0
+Clientul 738 a iesit din coada a 1
+Clientul 656 a iesit din coada a 18
+Clientul 630 a iesit din coada a 13
+Clientul 544 a iesit din coada a 16
+Clientul 673 a iesit din coada a 6
+Time:116
+Number of clients:0
+Time:117
+Number of clients:0
+Clientul 831 a iesit din coada a 11
+Clientul 558 a iesit din coada a 17
+Clientul 660 a iesit din coada a 19
+Clientul 887 a iesit din coada a 14
+Time:118
+Number of clients:0
+Clientul 147 a iesit din coada a 9
+Time:119
+Number of clients:0
+Clientul 426 a iesit din coada a 13
+Clientul 809 a iesit din coada a 15
+Clientul 869 a iesit din coada a 4
+Clientul 703 a iesit din coada a 8
+Clientul 937 a iesit din coada a 2
+Clientul 137 a iesit din coada a 5
+Time:120
+Number of clients:0
+Clientul 366 a iesit din coada a 7
+Clientul 737 a iesit din coada a 3
+Time:121
+Number of clients:0
+Clientul 463 a iesit din coada a 20
+Clientul 349 a iesit din coada a 10
+Clientul 456 a iesit din coada a 16
+Time:122
+Number of clients:0
+Clientul 277 a iesit din coada a 18
+Clientul 412 a iesit din coada a 12
+Clientul 238 a iesit din coada a 9
+Clientul 420 a iesit din coada a 6
+Time:123
+Number of clients:0
+Clientul 272 a iesit din coada a 17
+Time:124
+Number of clients:0
+Clientul 302 a iesit din coada a 1
+Clientul 92 a iesit din coada a 14
+Time:125
+Number of clients:0
+Clientul 413 a iesit din coada a 11
+Clientul 250 a iesit din coada a 20
+Clientul 970 a iesit din coada a 15
+Clientul 978 a iesit din coada a 19
+Clientul 331 a iesit din coada a 3
+Clientul 297 a iesit din coada a 5
+Time:126
+Number of clients:0
+Clientul 421 a iesit din coada a 13
+Clientul 263 a iesit din coada a 4
+Time:127
+Number of clients:0
+Clientul 50 a iesit din coada a 7
+Clientul 576 a iesit din coada a 8
+Clientul 581 a iesit din coada a 9
+Time:128
+Number of clients:0
+Clientul 99 a iesit din coada a 10
+Clientul 706 a iesit din coada a 18
+Clientul 785 a iesit din coada a 12
+Clientul 480 a iesit din coada a 2
+Time:129
+Number of clients:0
+Clientul 342 a iesit din coada a 17
+Clientul 53 a iesit din coada a 11
+Clientul 788 a iesit din coada a 20
+Clientul 323 a iesit din coada a 14
+Clientul 49 a iesit din coada a 3
+Time:130
+Number of clients:0
+Clientul 205 a iesit din coada a 16
+Clientul 736 a iesit din coada a 5
+Time:131
+Number of clients:0
+Clientul 546 a iesit din coada a 15
+Clientul 764 a iesit din coada a 9
+Clientul 620 a iesit din coada a 6
+Time:132
+Number of clients:0
+Clientul 735 a iesit din coada a 10
+Clientul 865 a iesit din coada a 13
+Clientul 508 a iesit din coada a 2
+Time:133
+Number of clients:0
+Clientul 157 a iesit din coada a 1
+Clientul 523 a iesit din coada a 4
+Clientul 152 a iesit din coada a 19
+Time:134
+Number of clients:0
+Clientul 179 a iesit din coada a 11
+Clientul 528 a iesit din coada a 14
+Clientul 817 a iesit din coada a 5
+Time:135
+Number of clients:0
+Clientul 654 a iesit din coada a 7
+Time:136
+Number of clients:0
+Clientul 878 a iesit din coada a 16
+Clientul 59 a iesit din coada a 12
+Clientul 84 a iesit din coada a 3
+Clientul 707 a iesit din coada a 8
+Time:137
+Number of clients:0
+Clientul 926 a iesit din coada a 18
+Clientul 699 a iesit din coada a 10
+Clientul 418 a iesit din coada a 15
+Time:138
+Number of clients:0
+Clientul 254 a iesit din coada a 17
+Clientul 895 a iesit din coada a 20
+Clientul 894 a iesit din coada a 19
+Clientul 120 a iesit din coada a 6
+Time:139
+Number of clients:0
+Clientul 80 a iesit din coada a 1
+Clientul 659 a iesit din coada a 7
+Clientul 676 a iesit din coada a 13
+Clientul 577 a iesit din coada a 2
+Clientul 715 a iesit din coada a 14
+Clientul 615 a iesit din coada a 9
+Time:140
+Number of clients:0
+Clientul 942 a iesit din coada a 8
+Time:141
+Number of clients:0
+Time:142
+Number of clients:0
+Clientul 955 a iesit din coada a 11
+Clientul 571 a iesit din coada a 18
+Clientul 557 a iesit din coada a 15
+Clientul 358 a iesit din coada a 4
+Clientul 135 a iesit din coada a 5
+Time:143
+Number of clients:0
+Clientul 643 a iesit din coada a 7
+Clientul 207 a iesit din coada a 12
+Clientul 892 a iesit din coada a 14
+Time:144
+Number of clients:0
+Clientul 651 a iesit din coada a 17
+Clientul 134 a iesit din coada a 3
+Clientul 453 a iesit din coada a 2
+Clientul 767 a iesit din coada a 9
+Time:145
+Number of clients:0
+Clientul 841 a iesit din coada a 16
+Clientul 231 a iesit din coada a 20
+Clientul 830 a iesit din coada a 19
+Clientul 721 a iesit din coada a 8
+Time:146
+Number of clients:0
+Clientul 794 a iesit din coada a 10
+Clientul 861 a iesit din coada a 15
+Time:147
+Number of clients:0
+Clientul 253 a iesit din coada a 1
+Clientul 76 a iesit din coada a 18
+Clientul 832 a iesit din coada a 6
+Time:148
+Number of clients:0
+Clientul 159 a iesit din coada a 13
+Clientul 411 a iesit din coada a 3
+Time:149
+Number of clients:0
+Clientul 166 a iesit din coada a 16
+Clientul 977 a iesit din coada a 20
+Clientul 178 a iesit din coada a 2
+Clientul 374 a iesit din coada a 4
+Clientul 429 a iesit din coada a 9
+Clientul 748 a iesit din coada a 5
+Time:150
+Number of clients:0
+Clientul 58 a iesit din coada a 11
+Time:151
+Number of clients:0
+Clientul 957 a iesit din coada a 17
+Clientul 252 a iesit din coada a 7
+Time:152
+Number of clients:0
+Clientul 473 a iesit din coada a 1
+Clientul 953 a iesit din coada a 12
+Clientul 44 a iesit din coada a 14
+Clientul 618 a iesit din coada a 19
+Time:153
+Number of clients:0
+Clientul 991 a iesit din coada a 20
+Clientul 156 a iesit din coada a 8
+Time:154
+Number of clients:0
+Clientul 481 a iesit din coada a 15
+Clientul 124 a iesit din coada a 4
+Clientul 584 a iesit din coada a 6
+Time:155
+Number of clients:0
+Clientul 69 a iesit din coada a 10
+Clientul 501 a iesit din coada a 2
+Time:156
+Number of clients:0
+Clientul 729 a iesit din coada a 18
+Clientul 913 a iesit din coada a 11
+Clientul 611 a iesit din coada a 13
+Clientul 42 a iesit din coada a 3
+Clientul 679 a iesit din coada a 16
+Time:157
+Number of clients:0
+Clientul 8 a iesit din coada a 17
+Clientul 255 a iesit din coada a 8
+Clientul 751 a iesit din coada a 9
+Time:158
+Number of clients:0
+Clientul 752 a iesit din coada a 12
+Clientul 897 a iesit din coada a 15
+Clientul 503 a iesit din coada a 4
+Clientul 567 a iesit din coada a 5
+Clientul 590 a iesit din coada a 6
+Time:159
+Number of clients:0
+Clientul 858 a iesit din coada a 1
+Clientul 883 a iesit din coada a 7
+Clientul 852 a iesit din coada a 19
+Time:160
+Number of clients:0
+Clientul 677 a iesit din coada a 11
+Clientul 971 a iesit din coada a 10
+Time:161
+Number of clients:0
+Clientul 351 a iesit din coada a 14
+Clientul 964 a iesit din coada a 20
+Clientul 325 a iesit din coada a 3
+Clientul 529 a iesit din coada a 2
+Clientul 810 a iesit din coada a 9
+Time:162
+Number of clients:0
+Clientul 375 a iesit din coada a 13
+Clientul 914 a iesit din coada a 5
+Time:163
+Number of clients:0
+Clientul 339 a iesit din coada a 8
+Time:164
+Number of clients:0
+Clientul 417 a iesit din coada a 17
+Clientul 291 a iesit din coada a 18
+Clientul 985 a iesit din coada a 16
+Clientul 461 a iesit din coada a 4
+Time:165
+Number of clients:0
+Clientul 223 a iesit din coada a 19
+Time:166
+Number of clients:0
+Clientul 288 a iesit din coada a 7
+Clientul 18 a iesit din coada a 11
+Clientul 723 a iesit din coada a 15
+Clientul 118 a iesit din coada a 12
+Clientul 898 a iesit din coada a 14
+Clientul 497 a iesit din coada a 6
+Time:167
+Number of clients:0
+Clientul 459 a iesit din coada a 20
+Time:168
+Number of clients:0
+Clientul 240 a iesit din coada a 1
+Clientul 685 a iesit din coada a 13
+Clientul 287 a iesit din coada a 2
+Time:169
+Number of clients:0
+Clientul 995 a iesit din coada a 17
+Clientul 27 a iesit din coada a 18
+Clientul 468 a iesit din coada a 3
+Clientul 521 a iesit din coada a 10
+Clientul 282 a iesit din coada a 5
+Time:170
+Number of clients:0
+Clientul 730 a iesit din coada a 16
+Clientul 7 a iesit din coada a 9
+Time:171
+Number of clients:0
+Clientul 217 a iesit din coada a 7
+Clientul 504 a iesit din coada a 8
+Time:172
+Number of clients:0
+Clientul 32 a iesit din coada a 15
+Clientul 103 a iesit din coada a 14
+Clientul 347 a iesit din coada a 19
+Clientul 60 a iesit din coada a 4
+Clientul 512 a iesit din coada a 6
+Time:173
+Number of clients:0
+Clientul 556 a iesit din coada a 18
+Clientul 975 a iesit din coada a 12
+Clientul 827 a iesit din coada a 20
+Clientul 14 a iesit din coada a 10
+Clientul 847 a iesit din coada a 2
+Time:174
+Number of clients:0
+Clientul 631 a iesit din coada a 9
+Time:175
+Number of clients:0
+Clientul 440 a iesit din coada a 13
+Clientul 527 a iesit din coada a 11
+Clientul 25 a iesit din coada a 16
+Time:176
+Number of clients:0
+Clientul 601 a iesit din coada a 1
+Clientul 545 a iesit din coada a 7
+Clientul 300 a iesit din coada a 6
+Time:177
+Number of clients:0
+Clientul 622 a iesit din coada a 5
+Time:178
+Number of clients:0
+Clientul 652 a iesit din coada a 17
+Clientul 370 a iesit din coada a 19
+Clientul 559 a iesit din coada a 3
+Time:179
+Number of clients:0
+Clientul 691 a iesit din coada a 18
+Clientul 474 a iesit din coada a 14
+Clientul 704 a iesit din coada a 4
+Clientul 30 a iesit din coada a 10
+Clientul 97 a iesit din coada a 8
+Time:180
+Number of clients:0
+Clientul 823 a iesit din coada a 13
+Clientul 117 a iesit din coada a 15
+Clientul 322 a iesit din coada a 11
+Clientul 324 a iesit din coada a 12
+Clientul 457 a iesit din coada a 2
+Time:181
+Number of clients:0
+Clientul 194 a iesit din coada a 16
+Clientul 182 a iesit din coada a 9
+Time:182
+Number of clients:0
+Clientul 579 a iesit din coada a 20
+Clientul 335 a iesit din coada a 3
+Time:183
+Number of clients:0
+Clientul 377 a iesit din coada a 17
+Clientul 19 a iesit din coada a 8
+Clientul 519 a iesit din coada a 6
+Time:184
+Number of clients:0
+Clientul 242 a iesit din coada a 1
+Time:185
+Number of clients:0
+Clientul 101 a iesit din coada a 7
+Clientul 478 a iesit din coada a 15
+Clientul 472 a iesit din coada a 14
+Time:186
+Number of clients:0
+Clientul 396 a iesit din coada a 11
+Clientul 626 a iesit din coada a 12
+Clientul 740 a iesit din coada a 9
+Clientul 403 a iesit din coada a 5
+Time:187
+Number of clients:0
+Clientul 803 a iesit din coada a 13
+Clientul 614 a iesit din coada a 18
+Clientul 91 a iesit din coada a 19
+Clientul 379 a iesit din coada a 2
+Time:188
+Number of clients:0
+Clientul 786 a iesit din coada a 17
+Clientul 653 a iesit din coada a 4
+Clientul 632 a iesit din coada a 16
+Clientul 896 a iesit din coada a 10
+Time:189
+Number of clients:0
+Clientul 400 a iesit din coada a 3
+Time:190
+Number of clients:0
+Clientul 787 a iesit din coada a 1
+Clientul 216 a iesit din coada a 12
+Clientul 151 a iesit din coada a 8
+Time:191
+Number of clients:0
+Clientul 1 a iesit din coada a 15
+Clientul 165 a iesit din coada a 20
+Time:192
+Number of clients:0
+Clientul 742 a iesit din coada a 11
+Clientul 781 a iesit din coada a 16
+Clientul 698 a iesit din coada a 5
+Clientul 275 a iesit din coada a 6
+Time:193
+Number of clients:0
+Clientul 866 a iesit din coada a 17
+Time:194
+Number of clients:0
+Clientul 452 a iesit din coada a 7
+Clientul 149 a iesit din coada a 1
+Clientul 226 a iesit din coada a 14
+Clientul 341 a iesit din coada a 12
+Clientul 675 a iesit din coada a 19
+Clientul 258 a iesit din coada a 2
+Time:195
+Number of clients:0
+Clientul 229 a iesit din coada a 15
+Clientul 433 a iesit din coada a 20
+Clientul 62 a iesit din coada a 3
+Clientul 486 a iesit din coada a 9
+Time:196
+Number of clients:0
+Clientul 90 a iesit din coada a 13
+Clientul 974 a iesit din coada a 18
+Clientul 743 a iesit din coada a 10
+Time:197
+Number of clients:0
+Clientul 702 a iesit din coada a 4
+Time:198
+Number of clients:0
+Clientul 899 a iesit din coada a 7
+Clientul 162 a iesit din coada a 17
+Clientul 750 a iesit din coada a 11
+Clientul 171 a iesit din coada a 16
+Time:199
+Number of clients:0
+AVG SERVICE TIME=0.0070030033
+AVG WAITING TIME=0.1991992
